@@ -1,7 +1,9 @@
 <html>
-<head><title>First JSP</title></head>
+<head><title>Devops</title></head>
 <body>
-      <h2>devops</h2>
+      <h2>Final Project:\n 
+            Niv Melamed 204529648\n
+            idan Bar 311354237</h2>
 
   <a href="<%= request.getRequestURI() %>"><h3>Try Again</h3></a>
 </body>
