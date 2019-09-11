@@ -3,7 +3,7 @@
 <body>
       <h2>Final Project:<br>
             Niv Melamed 204529648<br>
-            Idan Bar 311354237</h2>
+            Ziv Bar 311354237</h2>
       
       <img src=1_EBXc9eJ1YRFLtkNI_djaAw.png>
       
